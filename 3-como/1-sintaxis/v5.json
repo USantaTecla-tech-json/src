@@ -1,0 +1,14 @@
+{
+    "elementoMixto" : [
+        "informacion", 
+        {
+            "subelemento": "informacion",
+        }
+        "informacion", 
+        {
+            "subelemento": "informacion",
+        }
+        "informacion", 
+    ]
+}
+

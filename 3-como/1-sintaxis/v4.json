@@ -1,0 +1,29 @@
+{
+    "metaInformacion": {
+       "@atributo": "informacion",
+       "#text": "informacion"
+    },
+    "elementoEstructurado": {
+       "@atributo": "informacion",
+       "subElementos": [
+          "informacion",
+          {
+             "@atributo": "informacion",
+             "#text": "informacion"
+          }
+       ]
+    },
+    "elementoVacio": [
+       {
+          "@atributo1": "informacion",
+          "@atributo2": "informacion"
+       },
+       {
+          "@atributo1": "informacion",
+          "@atributo2": "informacion"
+       }
+    ]
+ }
+
+
+ 
