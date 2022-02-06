@@ -1,8 +1,0 @@
-{ "elementoEstructurado" : {
-    "subElemento1": "informacion",
-    "subElemento2": "informacion",
-    ...
-    "subElementoN": "informacion"
-    }
-}
-
