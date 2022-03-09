@@ -1,0 +1,16 @@
+{
+    "elementoMixto" : [
+        "informacion", 
+        {
+            "#text": "informacion",
+             "@atributo1": "informacion"
+        },
+        "informacion", 
+        {
+            "#text": "informacion",
+             "@atributo1": "informacion"
+        },
+        "informacion" 
+    ]
+}
+
